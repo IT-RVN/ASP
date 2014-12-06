@@ -1,0 +1,11 @@
+E:\SHAG\ASP.NET\YandexTranlsator\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\SHAG\ASP.NET\YandexTranlsator\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\SHAG\ASP.NET\YandexTranlsator\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\SHAG\ASP.NET\YandexTranlsator\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\SHAG\ASP.NET\YandexTranlsator\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\SHAG\ASP.NET\YandexTranlsator\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\SHAG\ASP.NET\YandexTranlsator\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+E:\SHAG\ASP.NET\YandexTranlsator\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+E:\SHAG\ASP.NET\YandexTranlsator\WebApplication1\WebApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\SHAG\ASP.NET\YandexTranlsator\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+E:\SHAG\ASP.NET\YandexTranlsator\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
