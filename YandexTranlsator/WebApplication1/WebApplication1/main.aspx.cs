@@ -37,7 +37,7 @@ namespace WebApplication1
         {
             DropDownList ddl = (DropDownList)sender;
             langFrom = ddl.SelectedValue;
-
+            Session["langFrom"] = langFrom;
             Dictionary<string, string> allLang = translatorService.GetAvailableLangs(langFrom);
 
             AddLanguageToControl(ddlToLang, allLang);
@@ -47,13 +47,16 @@ namespace WebApplication1
         {
             DropDownList ddl = (DropDownList)sender;
             langTo = ddl.SelectedValue;
+            Session["langTo"] = langTo;
         }
 
         protected void Translate(object sender, EventArgs e)
         {
+            langFrom = (string)(Session["langFrom"]);
+            langTo = (string)(Session["langTo"]);
             textToTranslate = tbFrom.Text;
             string translated = translatorService.Translate(langFrom, textToTranslate, langTo);
-            tbTo.Text = textToTranslate;
+            tbTo.Text = translated;
         }
 
        
